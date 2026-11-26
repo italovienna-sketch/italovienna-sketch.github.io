@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://italoviana.vercel.app/sitemap.xml
+Host: https://italovienna-sketch.github.io
+Sitemap: https://italovienna-sketch.github.io/sitemap.xml
